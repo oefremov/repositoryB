@@ -1,0 +1,4 @@
+repositoryB
+===========
+
+Repository for submodule
